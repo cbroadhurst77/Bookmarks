@@ -1,0 +1,90 @@
+<!DOCTYPE NETSCAPE-Bookmark-file-1>
+<META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
+<TITLE>Bookmarks</TITLE><!--- highestId :66: for Floccus bookmark sync browser extension -->
+<DL><p>
+<DT><A HREF="https://m365.cloud.microsoft/search/?auth=2&#38;home=1&#38;from=ShellLogo" TAGS="" ID="1">Search | M365 Copilot</A>
+<DT><A HREF="https://arganosolutions.sharepoint.com/" TAGS="" ID="2">SharePoint</A>
+<DT><A HREF="https://argano.operations.dynamics.com/?cmp=ARGU&#38;mi=DefaultDashboard" TAGS="" ID="3">Dashboard -- Finance and Operations</A>
+<DT><A HREF="https://bte.cloud.argano.com/servicedesk/customer/portals" TAGS="" ID="4">Argano BTE - Jira Service Management</A>
+<DT><H3 ID="5">Training</H3>
+<DL><p>
+  <DT><A HREF="https://forms.office.com/pages/responsepage.aspx?id=xHwT7kNdz0OdpfdXKLjSHx5pfoSxd1dIsjZrYk1EZC5URUNTSkVITlpFVTBDWUQwWVdEVUdPSlg2TyQlQCN0PWcu&#38;route=shorturl" TAGS="" ID="6">U4 partner exam request</A>
+  <DT><A HREF="https://ondemand.questionmark.eu/home/611763/user" TAGS="" ID="7">U4 Exams</A>
+  <DT><A HREF="https://forms.office.com/pages/responsepage.aspx?id=GJK6AORbhkGdcSpUO0S_YzQYpdflt8tBsbwSRp034-FUNU9HMTVETTFDUzZYN0ZZSExJU08xNU1BSy4u&#38;route=shorturl" TAGS="" ID="8">Training &#38; Certification Request Intake Form</A>
+</DL><p>
+<DT><H3 ID="9">Unit 4</H3>
+<DL><p>
+  <DT><A HREF="https://us01-npe.erpx.unit4cloud.com/fddlogout/?RefreshFDDRouting" TAGS="" ID="13">Unit4 ERP</A>
+  <DT><A HREF="https://okta.unit4.com/oauth2/v1/authorize?redirect_uri=https://community4u.unit4.com/state-redirect&#38;client_id=0oag9w10xhvRxZg1g417&#38;response_type=token%20id_token&#38;scope=openid%20profile%20email&#38;state=Lw==&#38;nonce=nonce" TAGS="" ID="14">Unit4 Community4U - Sign In</A>
+  <DT><A HREF="https://docs-external.u4pp.com/extensions-kit/guides/portal/overview/" TAGS="" ID="15">Overview - Extension Kit</A>
+  <DT><A HREF="https://develop.unit4rd.com/" TAGS="" ID="16">Unit4 Developer Portal</A>
+  <DT><A HREF="https://thehub.unit4.com/home" TAGS="" ID="17">Unit4 Knowledge Hub</A>
+  <DT><A HREF="https://docs.oasis-open.org/odata/odata/v4.0/errata03/os/complete/part1-protocol/odata-v4.0-errata03-os-part1-protocol-complete.html#_The_$filter_System" TAGS="" ID="18">OData Version 4.0. Part 1: Protocol Plus Errata 03</A>
+  <DT><A HREF="https://www.odata.org/documentation/odata-version-2-0/uri-conventions/" TAGS="" ID="19">URI Conventions (OData Version 2.0) · OData - the Best Way to REST</A>
+  <DT><A HREF="https://docs.oasis-open.org/odata/odata/v4.0/errata02/os/complete/part3-csdl/odata-v4.0-errata02-os-part3-csdl-complete.html#_Toc406398065" TAGS="" ID="20">OData Version 4.0 Part 3: Common Schema Definition Language (CSDL) Plus Errata 02</A>
+  <DT><A HREF="https://docs-external.u4pp.com/extensions-kit/" TAGS="" ID="21">Welcome - Extension Kit</A>
+  <DT><A HREF="https://github.com/scriban" TAGS="" ID="22">scriban</A>
+  <DT><A HREF="https://documentationerpx-prev.unit4cloud.com/EN/X2master.htm#Welcome.htm?TocPath=_____1" TAGS="" ID="23">Unit4 ERP Online Help - Welcome</A>
+</DL><p>
+<DT><A HREF="https://employ.remote.com/dashboard/documents/" TAGS="" ID="10">Files | Remote</A>
+<DT><A HREF="https://chatgpt.com/c/690e024a-086c-8332-8384-a4335c6a2eed" TAGS="" ID="11">ChatGPT</A>
+<DT><H3 ID="12">Argano</H3>
+<DL><p>
+  <DT><H3 ID="24">Albat</H3>
+  <DL><p>
+    <DT><A HREF="https://dev.azure.com/ALBATUnit4/ALBAT/_queries/query/?wiql=Select%20%5BSystem.Id%5D%2C%20%5BSystem.WorkItemType%5D%2C%20%5BSystem.Title%5D%2C%20%5BSystem.AssignedTo%5D%2C%20%5BSystem.State%5D%2C%20%5BSystem.Tags%5D%20From%20WorkItems%20Where%20%5BSystem.TeamProject%5D%20%3D%20%27ALBAT%27%20and%20(%5BSystem.WorkItemType%5D%20%3D%20%27Forms%27%20or%20%5BSystem.WorkItemType%5D%20%3D%20%27Task%27%20or%20%5BSystem.WorkItemType%5D%20%3D%20%27Business%20Process%27%20or%20%5BSystem.WorkItemType%5D%20%3D%20%27Automation%27%20or%20%5BSystem.WorkItemType%5D%20%3D%20%27Requirement%27%20or%20%5BSystem.WorkItemType%5D%20%3D%20%27Integration%27%20or%20%5BSystem.WorkItemType%5D%20%3D%20%27Requirements%27%20and%20not%20%5BSystem.State%5D%20in%20(%27Blocked%27)%20and%20not%20%5BSystem.State%5D%20in%20(%27Completed%27)%20and%20not%20%5BSystem.State%5D%20in%20(%27Removed%27)%20and%20not%20%5BSystem.State%5D%20in%20(%27Resolved%27)%20and%20not%20%5BSystem.State%5D%20in%20(%27Closed%27)%20and%20not%20%5BSystem.State%5D%20in%20(%27On-Hold%27)%20and%20not%20%5BSystem.State%5D%20in%20(%27Out%20of%20Scope%27))%20and%20%5BSystem.AssignedTo%5D%20%3D%20%27Josh%20Porter%27%20and%20%5BSystem.State%5D%20%3D%20%27Blocked%27%20Order%20By%20%5BSystem.Id%5D" TAGS="" ID="32">Untitled query - Boards</A>
+    <DT><A HREF="https://ubwdesktop.unit4cloud.com/vdesk/webtop.eui?webtop=/Common/citrix_access_sync-citrix_xenapp_webtop&#38;webtop_type=webtop_full" TAGS="" ID="33">F5 Dynamic Webtop</A>
+    <DT><A HREF="https://ubw-preview.unit4cloud.com/us_alb_prev_web/Login/Login.aspx?ReturnUrl=%2fus_alb_prev_web%2f" TAGS="" ID="34">Login - Unit4 ERP</A>
+    <DT><A HREF="https://ubw.unit4cloud.com/us_alb_prod_web/Login/Login.aspx?ReturnUrl=%2fus_alb_prod_web" TAGS="" ID="35">ERP7 - Prod</A>
+    <DT><A HREF="https://iconnect-eu.gcon4.com/manage-environment" TAGS="" ID="36">iConnect</A>
+    <DT><A HREF="https://us01.erpx-api.unit4cloud.com/swagger/index.html" TAGS="" ID="37">Swagger UI</A>
+    <DT><A HREF="https://app.raisetech.io/contractor/dashboard" TAGS="" ID="38">Raise APP | Contractor | Dashboard</A>
+  </DL><p>
+  <DT><H3 ID="25">SEA</H3>
+  <DL><p>
+    <DT><A HREF="https://arganosolutions.sharepoint.com/:x:/r/sites/A4M-NEAERPxImplementation-ArganoInternal/_layouts/15/Doc.aspx?sourcedoc=%7BDCCF611D-72F8-4EC4-AF59-B84AD68350D9%7D&#38;file=Argano%20Team%20Roster%20for%20NEA.xlsx&#38;action=default&#38;mobileredirect=true" TAGS="" ID="39">Argano Team Roster for NEA.xlsx</A>
+    <DT><A HREF="https://arganosolutions.sharepoint.com/sites/A4M-NEAERPxImplementation/Lists/Team%20PTOHoliday%20Calendar/calendar.aspx?xsdata=MDV8MDJ8fGZmMzA5MDZlYmNjZDQ4M2RjZDllMDhkZTBiMzRjMjJjfDAwYmE5MjE4NWJlNDQxODY5ZDcxMmE1NDNiNDRiZjYzfDB8MHw2Mzg5NjA1MTgzNTcxMjc4MDJ8VW5rbm93bnxWR1ZoYlhOVFpXTjFjbWwwZVZObGNuWnBZMlY4ZXlKRFFTSTZJbFJsWVcxelgwRlVVRk5sY25acFkyVmZVMUJQVEU5R0lpd2lWaUk2SWpBdU1DNHdNREF3SWl3aVVDSTZJbGRwYmpNeUlpd2lRVTRpT2lKUGRHaGxjaUlzSWxkVUlqb3hNWDA9fDF8TDJOb1lYUnpMekU1T20xbFpYUnBibWRmV21wWk5Wa3lVbXhOYW1OMFRWZEZNRTlUTURCWmFscG9URmRLYWsxNlZYUk9SMFpwVFhwb2FrNUVTWHBPVjFVeVFIUm9jbVZoWkM1Mk1pOXRaWE56WVdkbGN5OHhOell3TkRVMU1ETTBPVEV6fDQ1NWVkYzAzNzNiNDQ4NDNhMjA4MDhkZTBiMzRjMjJjfDNkNGZkMmI5MTZhMjRmNGU4MTRmNzAxMzYyMDkwNTQ4&#38;sdata=QlVZenl0SCtHNHluM1V3NHhLc2VuYVdjaUNieDJGS0V6WFBhRHRVODFUYz0%3D&#38;ovuser=00ba9218-5be4-4186-9d71-2a543b44bf63%2Cchristopher.broadhurst%40argano.com&#38;OR=Teams-HL&#38;CT=1760456172737&#38;clickparams=eyJBcHBOYW1lIjoiVGVhbXMtRGVza3RvcCIsIkFwcFZlcnNpb24iOiI0OS8yNTA5MTExNjAxOCIsIkhhc0ZlZGVyYXRlZFVzZXIiOmZhbHNlfQ%3D%3D" TAGS="" ID="40">Team PTO/Holiday Calendar - Calendar</A>
+  </DL><p>
+  <DT><A HREF="https://aex.dev.azure.com/me?mkt=en-GB" TAGS="" ID="26">DevOps</A>
+  <DT><A HREF="https://launcher.myapps.microsoft.com/api/signin/b2ff2e47-8c87-49dd-aca4-a9b7a4d2843d?tenantId=00ba9218-5be4-4186-9d71-2a543b44bf63" TAGS="" ID="27">Oracle Fusion Cloud Applications</A>
+  <DT><A HREF="https://arbelatechnologies.crm.dynamics.com/main.aspx?appid=5e9ed0fe-bb9e-4511-b5a4-f5ccfb4782f9&#38;forceUCI=1&#38;pagetype=entityrecord&#38;etn=incident&#38;id=6f827c36-02c6-f011-aa43-000d3a34603f" TAGS="" ID="28">Case: Support Case: Reporting Issues - Dynamics 365</A>
+  <DT><A HREF="https://arbelatechnologies.crm.dynamics.com/main.aspx?appid=5e9ed0fe-bb9e-4511-b5a4-f5ccfb4782f9&#38;forceUCI=1&#38;pagetype=dashboard&#38;id=efe6792a-3a08-e711-8106-e0071b66aea1&#38;type=system&#38;_canOverride=true" TAGS="" ID="29">Arbela Support Case Dashboard - Dynamics 365</A>
+</DL><p>
+<DT><H3 ID="30">D365</H3>
+<DL><p>
+  <DT><A HREF="https://a4mapsbx.sandbox.operations.dynamics.com/?cmp=usmf&#38;mi=DefaultDashboard" TAGS="" ID="41">Dashboard -- Finance and Operations</A>
+  <DT><A HREF="https://a4merpsbx.sandbox.operations.dynamics.com/?cmp=usmf&#38;mi=ImmersiveHome" TAGS="" ID="42">Immersive home -- Finance and Operations</A>
+</DL><p>
+<DT><H3 ID="31">Equinox</H3>
+<DL><p>
+  <DT><A HREF="https://hr.breathehr.com/employees/2145248" TAGS="" ID="43">Breathe HR</A>
+  <DT><A HREF="https://app.asana.com/0/1211608016184375/1211608026039245" TAGS="" ID="44">● Equinox - Unit4 Team - Asana</A>
+  <DT><A HREF="https://rc-dashboard.heimdalsecurity.com/emailspamfilterlogs/index?token=b2064e872fe32d1305ae2776beca41156f746b13524cd23cb6be78fbacbee1bb&#38;recipient=chris.broadhurst@equinoxcl.com" TAGS="" ID="45">Heimdal - Unified Threat Platform</A>
+  <DT><A HREF="https://rap.aru.ac.uk/userportal/apps" TAGS="" ID="46">Remote Application Portal - ARU</A>
+  <DT><A HREF="https://portal.azure.com/#@equinoxcl.com/resource/subscriptions/e3978822-57ef-44c1-ba54-043bafdc16a9/resourceGroups/Unit4-Testing-Environment/providers/Microsoft.Compute/virtualMachines/Unit4-Testing-Server/overview" TAGS="" ID="47">Microsoft Azure Portal</A>
+  <DT><A HREF="https://erpx.unit4rd.com/?tenantId=5b71d132-7390-4cbf-b051-3c29148203c8" TAGS="" ID="48">ERPx NP Sandbox</A>
+  <DT><A HREF="http://51.142.123.33/BusinessWorld-Web-ApiDemoM7/swagger/ui/index" TAGS="" ID="49">Swagger UI - VM</A>
+  <DT><A HREF="http://51.142.123.33/BusinessWorldDemoM7/" TAGS="" ID="50">Homescreen menu - Unit4 ERP</A>
+  <DT><A HREF="https://s-eu-ek1-preview-portal.unit4cloud.com/flows/detail/2236f7bb-da4d-4ce9-9341-250ef85b7ebb" TAGS="" ID="51">U4 Extension Kit - Sandbox</A>
+  <DT><A HREF="https://erpweb.u4ia.io/nda701/" TAGS="" ID="52">Unit4 ERP - Sandbox</A>
+  <DT><A HREF="https://s-eu-ek1-preview-portal.unit4cloud.com/tenant/u4ia-nda701-prev" TAGS="" ID="53">Access to the portal - Extension Kit</A>
+  <DT><A HREF="https://go.xero.com/app/!4y6zD/expenses" TAGS="" ID="54">Xero Expenses – Equinox Consulting Limited – Xero</A>
+  <DT><A HREF="https://equinoxcl.udemy.com/organization/home/" TAGS="" ID="55">Home | Udemy Business</A>
+  <DT><H3 ID="56">Cornerstone</H3>
+  <DL><p>
+    <DT><A HREF="https://s-uk-ek1-preview-portal.unit4cloud.com/permissions" TAGS="" ID="57">U4 Extension Kit - Prev</A>
+    <DT><A HREF="https://ubw.unit4cloud.com/uk_ctl_prod_web/" TAGS="" ID="58">Homescreen menu - Unit4 ERP - Prod</A>
+    <DT><A HREF="https://ubw-preview.unit4cloud.com/uk_ctl_prev_web/" TAGS="" ID="59">Homescreen menu - Unit4 ERP - Prev</A>
+    <DT><A HREF="https://s-uk-ek1-portal.unit4cloud.com/monitoring" TAGS="" ID="60">U4 Extension Kit - Prod</A>
+  </DL><p>
+</DL><p>
+<DT><H3 ID="61">Automation coding</H3>
+<DL><p>
+  <DT><A HREF="https://www.promptcowboy.ai/ce66717a-e774-45f3-adb6-cca960ab9926" TAGS="" ID="62">Prompt Cowboy - Turn your lazy prompt into a great one</A>
+  <DT><A HREF="http://localhost:5678/settings/usage" TAGS="" ID="63">n8n</A>
+  <DT><A HREF="https://sureprompts.com/ai-prompt-generator" TAGS="" ID="64">Free AI Prompt Generator — Create Perfect Prompts Instantly | SurePrompts</A>
+  <DT><A HREF="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices" TAGS="" ID="65">Prompting best practices - Claude API Docs</A>
+</DL><p>
+<DT><A HREF="https://app.raisetech.io/dashboard" TAGS="" ID="66">Raise APP | Dashboard</A>
+</DL><p>
+</html>
