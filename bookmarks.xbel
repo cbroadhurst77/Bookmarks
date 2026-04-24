@@ -1,6 +1,6 @@
 <!DOCTYPE NETSCAPE-Bookmark-file-1>
 <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8">
-<TITLE>Bookmarks</TITLE><!--- highestId :66: for Floccus bookmark sync browser extension -->
+<TITLE>Bookmarks</TITLE><!--- highestId :74: for Floccus bookmark sync browser extension -->
 <DL><p>
 <DT><A HREF="https://m365.cloud.microsoft/search/?auth=2&#38;home=1&#38;from=ShellLogo" TAGS="" ID="1">Search | M365 Copilot</A>
 <DT><A HREF="https://arganosolutions.sharepoint.com/" TAGS="" ID="2">SharePoint</A>
@@ -86,5 +86,15 @@
   <DT><A HREF="https://platform.claude.com/docs/en/build-with-claude/prompt-engineering/claude-prompting-best-practices" TAGS="" ID="65">Prompting best practices - Claude API Docs</A>
 </DL><p>
 <DT><A HREF="https://app.raisetech.io/dashboard" TAGS="" ID="66">Raise APP | Dashboard</A>
+<DT><H3 ID="67">Tools</H3>
+<DL><p>
+  <DT><A HREF="https://www1.oanda.com/currency/converter/" TAGS="" ID="68">Currency Converter | Foreign Exchange Rates | OANDA</A>
+  <DT><A HREF="https://mijn.proactive.nl/ecorys/profile.settings" TAGS="" ID="69">ProActive - Mijn profiel</A>
+  <DT><A HREF="https://www.mobilefish.com/services/sepa_xml_validation/sepa_xml_validation.php" TAGS="" ID="70">Mobilefish.com - Free online SEPA XML validation</A>
+  <DT><A HREF="https://www.iban.com/iban-checker" TAGS="" ID="71">IBAN Checker: Validate &#38; Check IBAN Number for Errors</A>
+  <DT><A HREF="https://www.iso.org/obp/ui/#search" TAGS="" ID="72">Online Browsing Platform (OBP)</A>
+  <DT><A HREF="https://translate.google.com/" TAGS="" ID="73">Google Translate</A>
+  <DT><A HREF="https://www.ibancalculator.com/iban_validieren.html" TAGS="" ID="74">Validate an IBAN</A>
+</DL><p>
 </DL><p>
 </html>
