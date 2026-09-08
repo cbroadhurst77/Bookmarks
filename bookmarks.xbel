@@ -90,7 +90,7 @@
     <DT><A HREF="https://agrlive.essex.ac.uk/BusinessWorld/Login/Login.aspx" TAGS="" ID="98">Login - Unit4 ERP</A>
     <DT><A HREF="https://agrlive.essex.ac.uk/BusinessWorld/Login/Login.aspx?ReturnUrl=%2Fbusinessworld%2F" TAGS="" ID="81">Unit4 ERP - Live</A>
     <DT><A HREF="https://ubw.unit4cloud.com/uk_uoe_prod_web/Login/Login.aspx?ReturnUrl=%2fuk_uoe_prod_web" TAGS="" ID="103">Login - Unit4 ERP- Prod SaaS</A>
-    <DT><A HREF="https://agrtest.essex.ac.uk/businessworld/" TAGS="" ID="104">Public API access - Unit4 ERP</A>
+    <DT><A HREF="https://agrtest.essex.ac.uk/businessworld/" TAGS="" ID="104">Unit4 ERP - Test on prem</A>
   </DL><p>
   <DT><A HREF="https://unit4ukusergroup.sharepoint.com/" TAGS="" ID="82">Unit4 UK User Group - Home</A>
   <DT><A HREF="http://51.142.123.33/EquinoxApi/swagger/index.html" TAGS="" ID="84">Equinox API - Swagger UI</A>
